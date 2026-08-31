@@ -24,50 +24,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-* **[Omnicell](https://www.omnicell.com/)**
-  Enterprise medication-management and pharmacy automation platform providing automated dispensing, medication inventory control, pharmacy workflow automation, and analytics for hospitals and health systems.
-
-* **[BD Pyxis](https://www.bd.com/)**
-  Medication dispensing and inventory-management ecosystem designed for hospitals, supporting automated dispensing workflows, medication availability, inventory control, and clinical integration.
-
-* **[Kit Check](https://kitcheck.com/)**
-  RFID-enabled medication and supply tracking platform focused on automated kit management, medication inventory accuracy, expiration monitoring, and hospital pharmacy workflows.
-
-* **[McKesson EnterpriseRx](https://www.mckesson.com/)**
-  Pharmacy management platform supporting prescription workflows, dispensing operations, inventory management, purchasing, patient records, and business administration.
-
-* **[Swisslog Healthcare](https://www.swisslog-healthcare.com/)**
-  Healthcare automation provider offering medication transport, pharmacy automation, inventory workflows, and automated material-handling solutions for hospitals.
-
-* **[ScriptPro](https://www.scriptpro.com/)**
-  Pharmacy automation platform providing prescription dispensing, workflow automation, medication handling, inventory support, and robotic pharmacy technologies.
-
-* **[Parata](https://www.parata.com/)**
-  Pharmacy automation and medication-management platform focused on prescription fulfillment, dispensing automation, inventory efficiency, and centralized pharmacy workflows.
-
-* **[BlueBin](https://bluebin.com/)**
-  Healthcare inventory-management platform designed to improve supply replenishment, inventory visibility, hospital supply workflows, and point-of-use stock management.
-
-* **[Supplylogix](https://www.supplylogix.com/)**
-  Pharmacy analytics and inventory optimization platform providing demand forecasting, inventory insights, purchasing support, and supply-chain intelligence.
-
-* **[WaveMark](https://www.wavemark.com/)**
-  Healthcare inventory-management platform focused on real-time visibility, RFID-enabled tracking, supply replenishment, analytics, and hospital inventory optimization.
-
-* **[DoseMeRx](https://doseme-rx.com/)**
-  Clinical medication-management and precision-dosing platform that can complement pharmacy workflows with patient-specific medication optimization and analytics.
-
-* **[McKesson Supply Chain Solutions](https://www.mckesson.com/)**
-  Enterprise healthcare supply-chain services and technologies supporting medication distribution, purchasing, replenishment, and inventory operations.
-
-* **[BD HealthSight](https://www.bd.com/)**
-  Healthcare analytics ecosystem that supports operational visibility across medication and clinical workflows.
-
-* **[Oracle Health](https://www.oracle.com/health/)**
-  Healthcare information and operational platform capable of supporting pharmacy, medication, supply-chain, and enterprise hospital workflows.
-
-* **[Infor Healthcare](https://www.infor.com/industries/healthcare)**
-  Enterprise healthcare supply-chain and ERP platform supporting inventory, procurement, asset management, analytics, and hospital operations.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Omnicell](https://www.omnicell.com/)** | Enterprise medication-management and pharmacy automation platform providing automated dispensing, medication inventory control, pharmacy workflow automation, and analytics for hospitals and health systems. | Starting from ~$1,200/month (~$14,400/year base software subscription; hardware cabinets from ~$35,000) | No permanent free tier; 0-day self-serve trial (guided live vendor demo & facility assessment available on request) |
+| **[BD Pyxis](https://www.bd.com/)** | Medication dispensing and inventory-management ecosystem designed for hospitals, supporting automated dispensing workflows, medication availability, inventory control, and clinical integration. | Starting from ~$1,500/month (~$18,000/year base software & maintenance license; cabinet units from ~$15,000–$50,000) | No permanent free tier; 0-day self-serve trial (interactive clinical demo and workflow evaluation on request) |
+| **[Kit Check](https://kitcheck.com/)** | RFID-enabled medication and supply tracking platform focused on automated kit management, medication inventory accuracy, expiration monitoring, and hospital pharmacy workflows. | Starting from ~$1,000/month (~$12,000/year platform subscription + RFID scanning hardware / tags) | No permanent free tier; 0-day self-serve trial (guided interactive proof-of-concept demo on request) |
+| **[McKesson EnterpriseRx](https://www.mckesson.com/)** | Pharmacy management platform supporting prescription workflows, dispensing operations, inventory management, purchasing, patient records, and business administration. | Starting from ~$1,100/month (~$13,200/year base pharmacy management license) | No permanent free tier; 0-day self-serve trial (scheduled live product walkthrough and consultation on request) |
+| **[Swisslog Healthcare](https://www.swisslog-healthcare.com/)** | Healthcare automation provider offering medication transport, pharmacy automation, inventory workflows, and automated material-handling solutions for hospitals. | Starting from ~$2,500/month (~$30,000/year base platform & software control license) | No permanent free tier; 0-day self-serve trial (guided workflow simulation and technical demo on request) |
+| **[ScriptPro](https://www.scriptpro.com/)** | Pharmacy automation platform providing prescription dispensing, workflow automation, medication handling, inventory support, and robotic pharmacy technologies. | Starting from ~$1,250/month (~$15,000/year base SP Central software license; robotic dispensing systems from ~$42,000) | No permanent free tier; 0-day self-serve trial (live product demonstration and operational workflow analysis on request) |
+| **[Parata](https://www.parata.com/)** | Pharmacy automation and medication-management platform focused on prescription fulfillment, dispensing automation, inventory efficiency, and centralized pharmacy workflows. | Starting from ~$1,200/month (~$14,400/year software management suite; automated vial/pouch packagers from ~$14,000) | No permanent free tier; 0-day self-serve trial (scheduled live product demo on request) |
+| **[BlueBin](https://bluebin.com/)** | Healthcare inventory-management platform designed to improve supply replenishment, inventory visibility, hospital supply workflows, and point-of-use stock management. | Starting from ~$800/month (~$9,600/year base facility subscription) | Free forever web tools (Supply Chain Waste Calculator & ROI Estimator); 0-day self-serve trial for core software (guided discovery demo on request) |
+| **[Supplylogix](https://www.supplylogix.com/)** | Pharmacy analytics and inventory optimization platform providing demand forecasting, inventory insights, purchasing support, and supply-chain intelligence. | Starting from ~$500/month (~$6,000/year per pharmacy location for Pinpoint inventory suite) | No permanent free tier; 0-day self-serve trial (guided live demo and historical data analysis preview on request) |
+| **[WaveMark](https://www.wavemark.com/)** | Healthcare inventory-management platform focused on real-time visibility, RFID-enabled tracking, supply replenishment, analytics, and hospital inventory optimization. | Starting from ~$1,500/month (~$18,000/year per department / clinical site) | No permanent free tier; 0-day self-serve trial (live interactive clinical demo & inventory audit on request) |
+| **[DoseMeRx](https://doseme-rx.com/)** | Clinical medication-management and precision-dosing platform that can complement pharmacy workflows with patient-specific medication optimization and analytics. | Starting from ~$166/month ($1,990/year entry ASHP clinical bundle for single drug model) | Free forever academic plan via The Dosing Institute for students/faculty with .edu email (limited model access); 14-day free institutional trial upon sales request |
+| **[McKesson Supply Chain Solutions](https://www.mckesson.com/)** | Enterprise healthcare supply-chain services and technologies supporting medication distribution, purchasing, replenishment, and inventory operations. | Starting from ~$1,200/month (~$14,400/year enterprise inventory portal license) | No permanent free tier; 0-day self-serve trial (guided supply spend evaluation and platform walkthrough on request) |
+| **[BD HealthSight](https://www.bd.com/)** | Healthcare analytics ecosystem that supports operational visibility across medication and clinical workflows. | Starting from ~$1,800/month (~$21,600/year hospital analytics subscription) | No permanent free tier; 0-day self-serve trial (guided enterprise visibility demo on request) |
+| **[Oracle Health](https://www.oracle.com/health/)** | Healthcare information and operational platform capable of supporting pharmacy, medication, supply-chain, and enterprise hospital workflows. | Starting from ~$2,000/month (~$24,000/year base cloud pharmacy & supply chain module) | No permanent free tier; 0-day self-serve trial (guided cloud sandbox demonstration on request) |
+| **[Infor Healthcare](https://www.infor.com/industries/healthcare)** | Enterprise healthcare supply-chain and ERP platform supporting inventory, procurement, asset management, analytics, and hospital operations. | Starting from ~$2,500/month (~$30,000/year entry CloudSuite Healthcare supply chain tier) | No permanent free tier; 0-day self-serve trial (guided enterprise cloud demo and readiness assessment on request) |
 
 ## Open-Source GitHub Projects
 
